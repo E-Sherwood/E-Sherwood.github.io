@@ -1,0 +1,18 @@
+html {
+    font-family: 'Rock Salt', cursive;
+    background-color: #000;
+    color:#E73800;
+}
+h1 {
+    text-shadow: 3px 3px 3px #666
+}
+hr {
+    background-color: #666;
+    height: 8px;
+}
+a {
+    text-decoration: none;
+    color: #666;
+    font-size: 35px;
+    text-shadow: 4px 4px 4px  #E73800
+}
