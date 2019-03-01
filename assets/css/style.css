@@ -4,11 +4,14 @@ html {
     color:#E73800;
 }
 h1 {
-    text-shadow: 3px 3px 3px #666
+    text-shadow: 4px 4px 4px #666;
+    margin-left: 35px;
 }
 hr {
     background-color: #666;
-    height: 8px;
+    height: 10px;
+    width: 30%;
+    margin-left: inherit;
 }
 a {
     text-decoration: none;
